@@ -2,4 +2,4 @@ def greeting
   puts "Hello World"
 end
 
-gretting
+get_via_redirectting
